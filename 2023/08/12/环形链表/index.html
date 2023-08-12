@@ -117,12 +117,12 @@ Doubeer'blog = </title>
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/D8X3IxzdnvpeS2s.jpg"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/za9Kfim51sOeMSq.jpg"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/GXePdjL6pUYBT5I.jpg"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/6xJjX1POnez2qhi.jpg"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/bNU487TrkVIFs6i.jpg"></li>
-          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/CvdLVMwjs6fPu5N.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/JcnEtj623kfLyIb.jpg"></li>
+          <li class="item" data-background-image="https://i.loli.net/2020/10/30/rjdhcSgEN8COBPA.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/mIQsNlx3H2uE7Z6.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/2RaPW6inqeJIZVg.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/pQNPKG7xwrzA4ha.jpg"></li>
+          <li class="item" data-background-image="https://s2.loli.net/2023/08/06/VAraomRPF5NLxOg.jpg"></li>
         </ul>
       </div>
     </header>
@@ -175,14 +175,14 @@ Doubeer'blog = </title>
 <p>给定一个链表的头节点   <code>head</code>  ，返回链表开始入环的第一个节点。 <em>如果链表无环，则返回  <code>null</code> 。</em></p>
 <p>如果链表中有某个节点，可以通过连续跟踪  <code>next</code>  指针再次到达，则链表中存在环。 为了表示给定链表中的环，评测系统内部使用整数  <code>pos</code>  来表示链表尾连接到链表中的位置（<strong>索引从 0 开始</strong>）。如果  <code>pos</code>  是  <code>-1</code> ，则在该链表中没有环。<strong>注意： <code>pos</code>  不作为参数进行传递</strong>，仅仅是为了标识链表的实际情况。</p>
 <p><strong>不允许修改</strong> 链表。</p>
-<p><img data-src=".%5C1.png" alt="1"></p>
+<p><img data-src="./1.png" alt="1"></p>
 <p><span class="exturl" data-url="aHR0cHM6Ly9sZWV0Y29kZS5jbi9wcm9ibGVtcy9saW5rZWQtbGlzdC1jeWNsZS1paS8=">142. 环形链表 II - 力扣（LeetCode）</span></p>
 <h1 id="分析"><a class="anchor" href="#分析">#</a> 分析</h1>
 <p>第一个问题是有没有环？</p>
 <p>这个可以用两个指针，fast 和 slow，fast 每次走两个节点，slow 走一个节点如果两者在途中相遇则证明有环。</p>
 <p>第二个问题如何找到入环节点？<br>
 一个数学追击问题，如图</p>
-<p><img data-src=".%5C2.png" alt="1"></p>
+<p><img data-src="./2.png" alt="1"></p>
 <p>slow 走过的是 x+y，fast 走过的是 x+y+n（y+z）联立得 x = (n - 1) (y + z) + z</p>
 <p>当 n=1 时，x=z，即头节点到环入口等于相遇点到换入口</p>
 <figure class="highlight c"><figcaption data-lang="c"></figcaption><table><tr><td data-num="1"></td><td><pre>class Solution <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>public<span class="token operator">:</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    ListNode <span class="token operator">*</span><span class="token function">detectCycle</span><span class="token punctuation">(</span>ListNode <span class="token operator">*</span>head<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>        ListNode<span class="token operator">*</span> fast <span class="token operator">=</span> head<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>        ListNode<span class="token operator">*</span> slow <span class="token operator">=</span> head<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>        <span class="token keyword">while</span><span class="token punctuation">(</span>fast <span class="token operator">!=</span> <span class="token constant">NULL</span> <span class="token operator">&amp;&amp;</span> fast<span class="token operator">-></span>next <span class="token operator">!=</span> <span class="token constant">NULL</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>            slow <span class="token operator">=</span> slow<span class="token operator">-></span>next<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>            fast <span class="token operator">=</span> fast<span class="token operator">-></span>next<span class="token operator">-></span>next<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>            <span class="token comment">// 快慢指针相遇，此时从 head 和 相遇点，同时查找直至相遇</span></pre></td></tr><tr><td data-num="10"></td><td><pre>            <span class="token keyword">if</span> <span class="token punctuation">(</span>slow <span class="token operator">==</span> fast<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="11"></td><td><pre>                ListNode<span class="token operator">*</span> index1 <span class="token operator">=</span> fast<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>                ListNode<span class="token operator">*</span> index2 <span class="token operator">=</span> head<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>                <span class="token keyword">while</span> <span class="token punctuation">(</span>index1 <span class="token operator">!=</span> index2<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>                    index1 <span class="token operator">=</span> index1<span class="token operator">-></span>next<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>                    index2 <span class="token operator">=</span> index2<span class="token operator">-></span>next<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>                <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="17"></td><td><pre>                <span class="token keyword">return</span> index2<span class="token punctuation">;</span> <span class="token comment">// 返回环的入口</span></pre></td></tr><tr><td data-num="18"></td><td><pre>            <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>        <span class="token keyword">return</span> <span class="token constant">NULL</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="22"></td><td><pre><span class="token punctuation">&#125;</span><span class="token punctuation">;</span></pre></td></tr></table></figure>
@@ -200,7 +200,7 @@ Doubeer'blog = </title>
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2023-08-12 22:24:55" itemprop="dateModified" datetime="2023-08-12T22:24:55+08:00">2023-08-12</time>
+    <time title="修改时间：2023-08-12 22:38:57" itemprop="dateModified" datetime="2023-08-12T22:38:57+08:00">2023-08-12</time>
   </span>
 </div>
 
@@ -232,7 +232,7 @@ Doubeer'blog = </title>
     <div class="item left">
       
 
-  <a href="../%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;08&#x2F;06&#x2F;WivKsZg27QOhxbn.jpg" title="链表相交">
+  <a href="../%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;s2.loli.net&#x2F;2023&#x2F;08&#x2F;06&#x2F;ml1vCTzkdgGJEqA.jpg" title="链表相交">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 链表</span>
   <h3>链表相交</h3>
@@ -365,55 +365,33 @@ Doubeer'blog = </title>
   <li class="item">
     
 <div class="breadcrumb">
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/" title="分类于 算法">算法</a>
-<i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8/" title="分类于 链表">链表</a>
-</div>
-
-    <span><a href="../../11/%E6%89%8B%E5%86%99%E9%93%BE%E8%A1%A8/" title="手写链表">手写链表</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="../../../../categories/%E6%B5%8B%E8%AF%95/" title="分类于 测试">测试</a>
-</div>
-
-    <span><a href="../../07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/" title="测试文章">测试文章</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/" title="分类于 算法">算法</a>
-<i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8/" title="分类于 链表">链表</a>
-</div>
-
-    <span><a href="../../11/%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0/" title="移除链表元素">移除链表元素</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/" title="分类于 算法">算法</a>
-<i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8/" title="分类于 链表">链表</a>
-</div>
-
-    <span><a href="../%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E8%8A%82%E7%82%B9/" title="两两交换链表节点">两两交换链表节点</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
 </div>
 
     <span><a href="../../06/hello-world/" title="Hello World">Hello World</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" title="分类于 计算机科学">计算机科学</a>
+<i class="ic i-angle-right"></i>
+<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/C%E8%AF%AD%E8%A8%80/" title="分类于 C语言">C语言</a>
+</div>
+
+    <span><a href="../../07/c%E8%AF%AD%E8%A8%80/" title="c语言基础">c语言基础</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="../../../../categories/%E7%AE%97%E6%B3%95/" title="分类于 算法">算法</a>
+<i class="ic i-angle-right"></i>
+<a href="../../../../categories/%E7%AE%97%E6%B3%95/%E9%93%BE%E8%A1%A8/" title="分类于 链表">链表</a>
+</div>
+
+    <span><a href="../%E5%88%A0%E9%99%A4%E5%80%92%E6%95%B0%E7%AC%ACn%E4%B8%AA%E8%8A%82%E7%82%B9/" title="删除倒数第n个节点">删除倒数第n个节点</a></span>
   </li>
 
       
@@ -427,7 +405,31 @@ Doubeer'blog = </title>
 <a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E4%B8%8A/" title="分类于 新标日初上">新标日初上</a>
 </div>
 
-    <span><a href="../%E7%AC%AC%E4%B8%83%E8%AF%BE-%E5%B0%8F%E6%9D%8E%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%96%9D%E5%92%96%E5%95%A1/" title="第七课 小李每天都喝咖啡">第七课 小李每天都喝咖啡</a></span>
+    <span><a href="../%E7%AC%AC%E5%85%AB%E8%AF%BE-%E5%B0%8F%E6%9D%8E%E7%94%A8%E6%97%A5%E8%AF%AD%E5%86%99%E4%BF%A1/" title="第八课 小李用日语写信">第八课 小李用日语写信</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" title="分类于 计算机科学">计算机科学</a>
+<i class="ic i-angle-right"></i>
+<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/java/" title="分类于 java">java</a>
+</div>
+
+    <span><a href="../../07/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/" title="java集合框架">java集合框架</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="../../../../categories/%E7%AE%97%E6%B3%95/" title="分类于 算法">算法</a>
+<i class="ic i-angle-right"></i>
+<a href="../../../../categories/%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84/" title="分类于 数组">数组</a>
+</div>
+
+    <span><a href="../../11/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/" title="滑动窗口">滑动窗口</a></span>
   </li>
 
       
@@ -448,14 +450,14 @@ Doubeer'blog = </title>
   <li class="item">
     
 <div class="breadcrumb">
-<a href="../../../../categories/%E5%A4%96%E8%AF%AD/" title="分类于 外语">外语</a>
+<a href="../../../../categories/%E4%B9%A6%E7%B1%8D/" title="分类于 书籍">书籍</a>
 <i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/" title="分类于 日语">日语</a>
+<a href="../../../../categories/%E4%B9%A6%E7%B1%8D/%E5%8E%86%E5%8F%B2/" title="分类于 历史">历史</a>
 <i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E4%B8%8A/" title="分类于 新标日初上">新标日初上</a>
+<a href="../../../../categories/%E4%B9%A6%E7%B1%8D/%E5%8E%86%E5%8F%B2/%E4%B8%AD%E5%9B%BD%E5%8F%B2%E8%AF%9D/" title="分类于 中国史话">中国史话</a>
 </div>
 
-    <span><a href="../../11/%E7%AC%AC%E5%85%AD%E8%AF%BE-%E5%90%89%E7%94%B0%E5%85%88%E7%94%9F%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%8E%BB%E4%B8%AD%E5%9B%BD/" title="第六课 吉田先生下个月去中国">第六课 吉田先生下个月去中国</a></span>
+    <span><a href="../../07/%E4%B8%AD%E5%9B%BD%E5%8F%B2%E8%AF%9D/" title="祖先和文明">祖先和文明</a></span>
   </li>
 
       
@@ -469,19 +471,21 @@ Doubeer'blog = </title>
 <a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E4%B8%8A/" title="分类于 新标日初上">新标日初上</a>
 </div>
 
-    <span><a href="../../11/%E7%AC%AC%E4%BA%94%E8%AF%BE-%E6%A3%AE%E5%85%88%E7%94%9F7%E7%82%B9%E8%B5%B7%E5%BA%8A/" title="第五课 森先生7点起床">第五课 森先生7点起床</a></span>
+    <span><a href="../../11/%E5%8A%A8%E8%AF%8D%E4%B8%89%E5%88%86%E7%B1%BB/" title="动词三分类">动词三分类</a></span>
   </li>
 
       
   <li class="item">
     
 <div class="breadcrumb">
-<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" title="分类于 计算机科学">计算机科学</a>
+<a href="../../../../categories/%E5%A4%96%E8%AF%AD/" title="分类于 外语">外语</a>
 <i class="ic i-angle-right"></i>
-<a href="../../../../categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/java/" title="分类于 java">java</a>
+<a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/" title="分类于 日语">日语</a>
+<i class="ic i-angle-right"></i>
+<a href="../../../../categories/%E5%A4%96%E8%AF%AD/%E6%97%A5%E8%AF%AD/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E4%B8%8A/" title="分类于 新标日初上">新标日初上</a>
 </div>
 
-    <span><a href="../../07/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/" title="java集合框架">java集合框架</a></span>
+    <span><a href="../../08/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E4%B8%8A/" title="第一课 小李是中国人">第一课 小李是中国人</a></span>
   </li>
 
   </ul>
