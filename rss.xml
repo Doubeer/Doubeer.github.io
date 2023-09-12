@@ -10,8 +10,659 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Mon, 28 Aug 2023 21:15:19 +0800</pubDate>
-        <lastBuildDate>Mon, 28 Aug 2023 21:15:19 +0800</lastBuildDate>
+        <pubDate>Tue, 05 Sep 2023 12:35:50 +0800</pubDate>
+        <lastBuildDate>Tue, 05 Sep 2023 12:35:50 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/09/05/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%B2%BB%E7%90%86/</guid>
+            <title>信息系统治理</title>
+            <link>http://example.com/2023/09/05/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%B2%BB%E7%90%86/</link>
+            <category term="软考" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/" />
+            <category term="信息系统项目管理师" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/" />
+            <category term="软考" scheme="http://example.com/tags/%E8%BD%AF%E8%80%83/" />
+            <category term="高项" scheme="http://example.com/tags/%E9%AB%98%E9%A1%B9/" />
+            <pubDate>Tue, 05 Sep 2023 12:35:50 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;it治理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#it治理&#34;&gt;#&lt;/a&gt; IT 治理 *&lt;/h1&gt;
+&lt;p&gt;信息系统治理（IT）治理起到&lt;strong&gt;统筹、评估、指导和监督&lt;/strong&gt;的作用。&lt;/p&gt;
+&lt;h2 id=&#34;it治理基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#it治理基础&#34;&gt;#&lt;/a&gt; IT 治理基础&lt;/h2&gt;
+&lt;p&gt;it 治理主要目标：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;与业务目标一致&lt;/li&gt;
+&lt;li&gt;有效利用信息与数据资源&lt;/li&gt;
+&lt;li&gt;风险管理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;it 治理的管理层次：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;最高管理层：证实 it 战略与业务战略是否一致&lt;/li&gt;
+&lt;li&gt;执行管理层：制定 it 的目标；分析新技术的机遇和风险&lt;/li&gt;
+&lt;li&gt;业务与服务执行层：信息和数据服务的提供和支持&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/08/30/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/</guid>
+            <title>信息技术发展</title>
+            <link>http://example.com/2023/08/30/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/</link>
+            <category term="软考" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/" />
+            <category term="信息系统项目管理师" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/" />
+            <category term="软考" scheme="http://example.com/tags/%E8%BD%AF%E8%80%83/" />
+            <category term="高项" scheme="http://example.com/tags/%E9%AB%98%E9%A1%B9/" />
+            <pubDate>Wed, 30 Aug 2023 23:54:51 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;信息技术及其发展&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息技术及其发展&#34;&gt;#&lt;/a&gt; 信息技术及其发展&lt;/h1&gt;
+&lt;p&gt;上午题 2-3 分&lt;/p&gt;
+&lt;h2 id=&#34;计算机网络&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算机网络&#34;&gt;#&lt;/a&gt; 计算机网络 *&lt;/h2&gt;
+&lt;p&gt;从作用范围可划分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人局域网（PAN)&lt;/li&gt;
+&lt;li&gt;局域网 (LAN)&lt;/li&gt;
+&lt;li&gt;城域网 (MAN)&lt;/li&gt;
+&lt;li&gt;广域网 (WAN)&lt;/li&gt;
+&lt;li&gt;公用网 ()&lt;/li&gt;
+&lt;li&gt;专用网&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;osi七层网络模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#osi七层网络模型&#34;&gt;#&lt;/a&gt; OSI 七层网络模型 *&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;./1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ieee-802协议族&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ieee-802协议族&#34;&gt;#&lt;/a&gt; IEEE 802 协议族 *&lt;/h3&gt;
+&lt;p&gt;IEEE 802 规范包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;802.1：802 协议概论&lt;/li&gt;
+&lt;li&gt;802.2：逻辑链路控制层&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;802.3：以太网的 CSMA/CD 载波监听多路访问 / 冲突检测协议&lt;/strong&gt;，&lt;strong&gt;重要的局域网协议&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;802.4：令牌总线 Token Bus 协议&lt;/li&gt;
+&lt;li&gt;802.5：令牌环 Token Ring 协议&lt;/li&gt;
+&lt;li&gt;802.6：城域网 MAN 协议&lt;/li&gt;
+&lt;li&gt;802.7：FDDI 宽带技术协议&lt;/li&gt;
+&lt;li&gt;802.8：光纤技术协议&lt;/li&gt;
+&lt;li&gt;802.9：局域网上的语音 / 数据集成规范&lt;/li&gt;
+&lt;li&gt;802.10：局域网安全互操作标准&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;802.11：无线局域网 WLAN 标准协议&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tcpip&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tcpip&#34;&gt;#&lt;/a&gt; TCP/IP*&lt;/h3&gt;
+&lt;p&gt;TCP/IP 是 Internet 的核心&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;./2.png&#34; alt=&#34;2&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;应用层协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用层协议&#34;&gt;#&lt;/a&gt; 应用层协议 *&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;FTP：文件传输协议&lt;/li&gt;
+&lt;li&gt;TFTP：简单文件传输协议&lt;/li&gt;
+&lt;li&gt;HTTP：超文本传输协议&lt;/li&gt;
+&lt;li&gt;SMTP：简单邮件传输协议&lt;/li&gt;
+&lt;li&gt;DHCP：动态主机配置协议&lt;/li&gt;
+&lt;li&gt;Telnet：远程登陆协议&lt;/li&gt;
+&lt;li&gt;DNS：域名系统&lt;/li&gt;
+&lt;li&gt;SNMP：简单网络管理协议&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;传输层协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#传输层协议&#34;&gt;#&lt;/a&gt; 传输层协议 *&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;TCP: 可靠，面向连接，传输数据量少&lt;/li&gt;
+&lt;li&gt;UDP：不可靠，无连接，检错弱，适合传输大量数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;网络层协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络层协议&#34;&gt;#&lt;/a&gt; 网络层协议 *&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;处理信息的路由和主机地址解析&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;IP：无连接，不可靠&lt;/li&gt;
+&lt;li&gt;ICMP（网络控制报文协议）：&lt;/li&gt;
+&lt;li&gt;IGMP（网络组管理协议）：&lt;/li&gt;
+&lt;li&gt;ARP (地址解析协议)&lt;/li&gt;
+&lt;li&gt;RARP（反向地址解析协议）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;软件定义网路sdn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#软件定义网路sdn&#34;&gt;#&lt;/a&gt; 软件定义网路 *（SDN）&lt;/h3&gt;
+&lt;p&gt;一种新型网络创新架构，将数据与控制分层&lt;/p&gt;
+&lt;p&gt;由下到上分别是数据平面 -（--》FlowTable 协议 ---》）控制平面和应用平面&lt;/p&gt;
+&lt;h3 id=&#34;计算机网络-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#计算机网络-2&#34;&gt;#&lt;/a&gt; 计算机网络 *&lt;/h3&gt;
+&lt;h3 id=&#34;第五代移动通信技术5g&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五代移动通信技术5g&#34;&gt;#&lt;/a&gt; 第五代移动通信技术 5G*&lt;/h3&gt;
+&lt;p&gt;特点：高速率，低时延，大连接，同时支持中低频和高频频段&lt;/p&gt;
+&lt;p&gt;三大应用场景：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;增强移动宽带（eMBB)&lt;/li&gt;
+&lt;li&gt;超高可靠低时延通信（uRLLC）&lt;/li&gt;
+&lt;li&gt;海量机器类通信（mMTC)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;存储和数据库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#存储和数据库&#34;&gt;#&lt;/a&gt; 存储和数据库&lt;/h2&gt;
+&lt;h3 id=&#34;存储技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#存储技术&#34;&gt;#&lt;/a&gt; 存储技术 *&lt;/h3&gt;
+&lt;p&gt;根据服务器类型分：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;封闭系统的存储&lt;/li&gt;
+&lt;li&gt;开发系统的存储
+&lt;ul&gt;
+&lt;li&gt;内置存储&lt;/li&gt;
+&lt;li&gt;外挂存储
+&lt;ul&gt;
+&lt;li&gt;直连式存储（DAS）&lt;/li&gt;
+&lt;li&gt;网络化存储（FAS）
+&lt;ul&gt;
+&lt;li&gt;网络接入存储 (NAS)&lt;/li&gt;
+&lt;li&gt;存储区域网络（SAN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;网络存储技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络存储技术&#34;&gt;#&lt;/a&gt; 网络存储技术&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;DAS：直连模式，不易扩展&lt;/li&gt;
+&lt;li&gt;NAS：有自的文件系统，可以用 TCP/IP 作为其网络传输协议，文件共享存取方式&lt;/li&gt;
+&lt;li&gt;SAN：是块级存储，不是文件共享方式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;存储虚拟化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#存储虚拟化&#34;&gt;#&lt;/a&gt; 存储虚拟化 *&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;是 “云存储” 的核心技术之一&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;存储虚拟化使存储设备能够转换为逻辑数据存储&lt;/p&gt;
+&lt;h3 id=&#34;绿色存储&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#绿色存储&#34;&gt;#&lt;/a&gt; 绿色存储 *&lt;/h3&gt;
+&lt;p&gt;目的：节能环保&lt;/p&gt;
+&lt;h3 id=&#34;数据结构模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据结构模型&#34;&gt;#&lt;/a&gt; 数据结构模型 *&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;数据结构模型是数据库系统的核心&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;常见有三种：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;层次模型：树结构（最早使用）&lt;/li&gt;
+&lt;li&gt;网状模型：网状结构&lt;/li&gt;
+&lt;li&gt;关系模型：二位表格&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;层次模型和网状模型又统称格式化模型&lt;/p&gt;
+&lt;h3 id=&#34;两种常见数据库类型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#两种常见数据库类型&#34;&gt;#&lt;/a&gt; 两种常见数据库类型 *&lt;/h3&gt;
+&lt;p&gt;关系数据库：遵循 ACID 原则 即：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原子性&lt;/li&gt;
+&lt;li&gt;一致性&lt;/li&gt;
+&lt;li&gt;隔离性&lt;/li&gt;
+&lt;li&gt;持久性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;优点：容易理解，使用方便，易于维护&lt;/p&gt;
+&lt;p&gt;非关系数据库：分布式，非关系型，不保证遵守 ACID 原则&lt;/p&gt;
+&lt;p&gt;优点：高并发，基本支持分布式，简单，易于扩展，可伸缩&lt;/p&gt;
+&lt;p&gt;缺点：事物支持较弱，通用性差，无完整越苏，复杂业务场景支持较差&lt;/p&gt;
+&lt;p&gt;常见的非关系数据库有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;键值数据库：简单，易部署，高并发&lt;/li&gt;
+&lt;li&gt;列存储数据库：通常来应对分布式存储海量数据&lt;/li&gt;
+&lt;li&gt;面向文档数据库：键值数据库升级版&lt;/li&gt;
+&lt;li&gt;图形数据库：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数据仓库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据仓库&#34;&gt;#&lt;/a&gt; 数据仓库 *&lt;/h3&gt;
+&lt;p&gt;数据仓库是一个面向主题的、集成的、非易失的且随时间变化的数据集合，用于管理决策。&lt;/p&gt;
+&lt;p&gt;基本概念：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;清洗 / 转换 / 加载：&lt;/li&gt;
+&lt;li&gt;元数据&lt;/li&gt;
+&lt;li&gt;粒度：细化程度越高，粒度级越小；越小，越大&lt;/li&gt;
+&lt;li&gt;分割；&lt;/li&gt;
+&lt;li&gt;数据集市&lt;/li&gt;
+&lt;li&gt;操作数据存储&lt;/li&gt;
+&lt;li&gt;数据模型&lt;/li&gt;
+&lt;li&gt;人工关系：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;数据仓库系统结构的四个层次：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;数据源&lt;/li&gt;
+&lt;li&gt;数据的存储与管理&lt;/li&gt;
+&lt;li&gt;OLAP 服务器&lt;/li&gt;
+&lt;li&gt;前端工具&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;数据源是基础，数据的存储与管理是核心。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;信息安全&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息安全&#34;&gt;#&lt;/a&gt; 信息安全&lt;/h2&gt;
+&lt;h3 id=&#34;数据的三种安全属性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数据的三种安全属性&#34;&gt;#&lt;/a&gt; 数据的三种安全属性&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;保密性：信息不被未授权者知晓&lt;/li&gt;
+&lt;li&gt;完整性：信息是正确的、真实的、未被篡改的、完整无缺的属性&lt;/li&gt;
+&lt;li&gt;可用性：信息可以随时正常使用的属性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;信息系统安全的四个层级&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息系统安全的四个层级&#34;&gt;#&lt;/a&gt; 信息系统安全的四个层级&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;设备安全&lt;/li&gt;
+&lt;li&gt;数据安全：静态安全，传统的信息安全&lt;/li&gt;
+&lt;li&gt;内容安全：内容保密，信息隐私保护&lt;/li&gt;
+&lt;li&gt;行为安全：动态安全&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;加密解密&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加密解密&#34;&gt;#&lt;/a&gt; 加密解密 *&lt;/h3&gt;
+&lt;p&gt;加密的两个元素：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;算法&lt;/li&gt;
+&lt;li&gt;密钥
+&lt;ul&gt;
+&lt;li&gt;对称密钥：对称加密（私人密钥加密）&lt;/li&gt;
+&lt;li&gt;非对称密钥：非对称加密（公开密钥加密）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;非对称加密 RSA，加密密钥公开，解密密钥保密&lt;/p&gt;
+&lt;h3 id=&#34;安全行为分析技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全行为分析技术&#34;&gt;#&lt;/a&gt; 安全行为分析技术 *&lt;/h3&gt;
+&lt;p&gt;用户和实体行为分析（UEBA) 系统包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据获取层&lt;/li&gt;
+&lt;li&gt;算法分析层&lt;/li&gt;
+&lt;li&gt;场景应用层&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;网络安全态势感知&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#网络安全态势感知&#34;&gt;#&lt;/a&gt; 网络安全态势感知 *&lt;/h3&gt;
+&lt;p&gt;是一种基于环境的、动态的、整体的洞悉安全风陷的能力&lt;/p&gt;
+&lt;p&gt;关键技术主要包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;改良多元异构数据的护具融合技术&lt;/li&gt;
+&lt;li&gt;面向多累型的网络安全威胁评估技术&lt;/li&gt;
+&lt;li&gt;网络安全态势评估与决策支撑技术&lt;/li&gt;
+&lt;li&gt;网络安全态势可视化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;新一代信息技术及应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新一代信息技术及应用&#34;&gt;#&lt;/a&gt; 新一代信息技术及应用&lt;/h1&gt;
+&lt;h2 id=&#34;物联网&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物联网&#34;&gt;#&lt;/a&gt; 物联网 *&lt;/h2&gt;
+&lt;p&gt;物联网的三层架构：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;感知层：RFID 射频技术&lt;/li&gt;
+&lt;li&gt;网络层&lt;/li&gt;
+&lt;li&gt;应用层&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;物联网的关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;传感器技术&lt;/li&gt;
+&lt;li&gt;传感网&lt;/li&gt;
+&lt;li&gt;应用系统框架&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;云计算&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#云计算&#34;&gt;#&lt;/a&gt; 云计算 *&lt;/h3&gt;
+&lt;p&gt;是分布式计算的一种&lt;/p&gt;
+&lt;p&gt;根据资源层次分为：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;基础设施即服务（IaaS)&lt;/li&gt;
+&lt;li&gt;平台即服务（Pass）&lt;/li&gt;
+&lt;li&gt;软件即服务（SaaS)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;虚拟化技术&lt;/li&gt;
+&lt;li&gt;云存储技术&lt;/li&gt;
+&lt;li&gt;多租户和访问控制管理&lt;/li&gt;
+&lt;li&gt;云安全技术&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;大数据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#大数据&#34;&gt;#&lt;/a&gt; 大数据 *&lt;/h2&gt;
+&lt;p&gt;特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;海量数据&lt;/li&gt;
+&lt;li&gt;数据类型多样&lt;/li&gt;
+&lt;li&gt;数据价值密度低&lt;/li&gt;
+&lt;li&gt;数据处理速度快&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大数据获取技术&lt;/li&gt;
+&lt;li&gt;分布式数据处理技术&lt;/li&gt;
+&lt;li&gt;大数据管理技术&lt;/li&gt;
+&lt;li&gt;大数据应用和服务技术&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;区块链&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#区块链&#34;&gt;#&lt;/a&gt; 区块链 *&lt;/h2&gt;
+&lt;p&gt;分类：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;公有链&lt;/li&gt;
+&lt;li&gt;联盟链&lt;/li&gt;
+&lt;li&gt;私有链&lt;/li&gt;
+&lt;li&gt;混合链&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;特征：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;多中心化&lt;/li&gt;
+&lt;li&gt;多方维护&lt;/li&gt;
+&lt;li&gt;时序数据&lt;/li&gt;
+&lt;li&gt;不可篡改&lt;/li&gt;
+&lt;li&gt;开放共识&lt;/li&gt;
+&lt;li&gt;安全可信&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;分布式账本&lt;/li&gt;
+&lt;li&gt;加密算法&lt;/li&gt;
+&lt;li&gt;共识机制&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;人工智能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#人工智能&#34;&gt;#&lt;/a&gt; 人工智能 *&lt;/h2&gt;
+&lt;p&gt;关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;自然语言处理&lt;/li&gt;
+&lt;li&gt;专家系统&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;虚拟现实&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#虚拟现实&#34;&gt;#&lt;/a&gt; 虚拟现实 *&lt;/h2&gt;
+&lt;p&gt;特征：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;沉浸性&lt;/li&gt;
+&lt;li&gt;交互性&lt;/li&gt;
+&lt;li&gt;多感知性&lt;/li&gt;
+&lt;li&gt;构想性 / 想象性&lt;/li&gt;
+&lt;li&gt;自主性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;关键技术：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;人机交互技术&lt;/li&gt;
+&lt;li&gt;传感器技术&lt;/li&gt;
+&lt;li&gt;动态环境建模技术&lt;/li&gt;
+&lt;li&gt;系统集成技术&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2023/08/29/%E4%BF%A1%E6%81%AF%E5%8C%96%E5%8F%91%E5%B1%95/</guid>
+            <title>信息化发展</title>
+            <link>http://example.com/2023/08/29/%E4%BF%A1%E6%81%AF%E5%8C%96%E5%8F%91%E5%B1%95/</link>
+            <category term="软考" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/" />
+            <category term="信息系统项目管理师" scheme="http://example.com/categories/%E8%BD%AF%E8%80%83/%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B8%88/" />
+            <category term="软考" scheme="http://example.com/tags/%E8%BD%AF%E8%80%83/" />
+            <category term="高项" scheme="http://example.com/tags/%E9%AB%98%E9%A1%B9/" />
+            <pubDate>Tue, 29 Aug 2023 22:47:51 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;信息与信息化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息与信息化&#34;&gt;#&lt;/a&gt; 信息与信息化&lt;/h1&gt;
+&lt;p&gt;信息是一种普遍联系的形式&lt;/p&gt;
+&lt;h2 id=&#34;信息掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息掌握&#34;&gt;#&lt;/a&gt; 信息（掌握）&lt;/h2&gt;
+&lt;h3 id=&#34;定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#定义&#34;&gt;#&lt;/a&gt; 定义&lt;/h3&gt;
+&lt;p&gt;信息是用来消除随机不定性的东西（香农）&lt;/p&gt;
+&lt;p&gt;单位：比特（bit）&lt;/p&gt;
+&lt;h3 id=&#34;特征与质量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特征与质量&#34;&gt;#&lt;/a&gt; 特征与质量&lt;/h3&gt;
+&lt;p&gt;特征&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;客观性&lt;/li&gt;
+&lt;li&gt;普遍性&lt;/li&gt;
+&lt;li&gt;无限性&lt;/li&gt;
+&lt;li&gt;动态性&lt;/li&gt;
+&lt;li&gt;相对性&lt;/li&gt;
+&lt;li&gt;依附性&lt;/li&gt;
+&lt;li&gt;变换性&lt;/li&gt;
+&lt;li&gt;传体系&lt;/li&gt;
+&lt;li&gt;层次性&lt;/li&gt;
+&lt;li&gt;系统性&lt;/li&gt;
+&lt;li&gt;转换性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;质量&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;精确性&lt;/li&gt;
+&lt;li&gt;完整性&lt;/li&gt;
+&lt;li&gt;可靠性&lt;/li&gt;
+&lt;li&gt;技术性&lt;/li&gt;
+&lt;li&gt;经济学&lt;/li&gt;
+&lt;li&gt;可验证性&lt;/li&gt;
+&lt;li&gt;安全性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;应对不同场合，信息的侧重面也不一样。&lt;/p&gt;
+&lt;h2 id=&#34;信息系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息系统&#34;&gt;#&lt;/a&gt; 信息系统&lt;/h2&gt;
+&lt;h3 id=&#34;信息系统-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息系统-2&#34;&gt;#&lt;/a&gt; 信息系统&lt;/h3&gt;
+&lt;p&gt;定义：&lt;/p&gt;
+&lt;p&gt;​		输入数据，进行加工，产生信息的系统&lt;/p&gt;
+&lt;p&gt;显著特点：&lt;/p&gt;
+&lt;p&gt;​		面向管理和支持生产&lt;/p&gt;
+&lt;p&gt;组成部分：&lt;/p&gt;
+&lt;p&gt;​		硬件、软件、数据库、网络、存储设备、感知设备、外设、人员以及把数据处理成信息的规程&lt;/p&gt;
+&lt;p&gt;分类（用途类型划分）：&lt;/p&gt;
+&lt;p&gt;​		电子商务系统、事务处理系统、管理信息系统、生产制造系统、电子政务系统、决策支持系统&lt;/p&gt;
+&lt;h3 id=&#34;信息系统的生命周期&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息系统的生命周期&#34;&gt;#&lt;/a&gt; 信息系统的生命周期&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;./1.png&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;四大：立项、开发、运维、消亡&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;立项（系统规划）：写可行性报告&lt;/li&gt;
+&lt;li&gt;开发：
+&lt;ol&gt;
+&lt;li&gt;系统分析：提出逻辑模型&lt;/li&gt;
+&lt;li&gt;系统设计：提出物理模型&lt;/li&gt;
+&lt;li&gt;系统实施：将设计付诸实施&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;系统运行和维护：维护和评价，记录系统运行情况&lt;/li&gt;
+&lt;li&gt;消亡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;5 小：系统规划、系统分析、系统设计、系统实施、运行维护&lt;/p&gt;
+&lt;h2 id=&#34;信息化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息化&#34;&gt;#&lt;/a&gt; 信息化&lt;/h2&gt;
+&lt;h3 id=&#34;信息化的内涵掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息化的内涵掌握&#34;&gt;#&lt;/a&gt; 信息化的内涵（掌握）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;信息网络体系&lt;/li&gt;
+&lt;li&gt;信息产业基础&lt;/li&gt;
+&lt;li&gt;社会运行环境&lt;/li&gt;
+&lt;li&gt;效用积累过程&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;信息化的六要素掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#信息化的六要素掌握&#34;&gt;#&lt;/a&gt; 信息化的六要素（掌握）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;信息技术应用&lt;/li&gt;
+&lt;li&gt;信息资源&lt;/li&gt;
+&lt;li&gt;信息网络&lt;/li&gt;
+&lt;li&gt;信息技术和产业&lt;/li&gt;
+&lt;li&gt;信息化人才&lt;/li&gt;
+&lt;li&gt;信息化政策法规和标准规范&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;现代化基础设施&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现代化基础设施&#34;&gt;#&lt;/a&gt; 现代化基础设施&lt;/h1&gt;
+&lt;h2 id=&#34;新型基础设施建设掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新型基础设施建设掌握&#34;&gt;#&lt;/a&gt; 新型基础设施建设（掌握）&lt;/h2&gt;
+&lt;p&gt;简称新基建，&lt;/p&gt;
+&lt;p&gt;涉及七大领域&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;5G 基建&lt;/li&gt;
+&lt;li&gt;特高压&lt;/li&gt;
+&lt;li&gt;城际高速铁路和城际轨道交通&lt;/li&gt;
+&lt;li&gt;新能源汽车充电桩&lt;/li&gt;
+&lt;li&gt;大数据中心&lt;/li&gt;
+&lt;li&gt;人工智能&lt;/li&gt;
+&lt;li&gt;工业物联网&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;包含三方面&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;信息基础设施：凸显 “技术新”&lt;/li&gt;
+&lt;li&gt;融合基础设施：重在 “应用新”&lt;/li&gt;
+&lt;li&gt;创新基础设施：强调 “平台新”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;工业互联网掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工业互联网掌握&#34;&gt;#&lt;/a&gt; 工业互联网（掌握）&lt;/h2&gt;
+&lt;p&gt;是第四次工业革命的重要基石&lt;/p&gt;
+&lt;h3 id=&#34;工业互联网的四大层级&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工业互联网的四大层级&#34;&gt;#&lt;/a&gt; 工业互联网的四大层级&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;网络是基础：工业互联网网络体系有三部分
+&lt;ol&gt;
+&lt;li&gt;网络互联&lt;/li&gt;
+&lt;li&gt;数据互通&lt;/li&gt;
+&lt;li&gt;标识解析&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;平台是中枢：平台体系包括边缘层、IaaS、PaaS、SaaS，作用如下
+&lt;ol&gt;
+&lt;li&gt;数据汇聚&lt;/li&gt;
+&lt;li&gt;建模分析&lt;/li&gt;
+&lt;li&gt;知识复用&lt;/li&gt;
+&lt;li&gt;应用创新&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;数据是要素：工业互联网有三个特性
+&lt;ol&gt;
+&lt;li&gt;重要性&lt;/li&gt;
+&lt;li&gt;专业性&lt;/li&gt;
+&lt;li&gt;复杂性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;安全是保障：工业互联网安全又三大特点
+&lt;ol&gt;
+&lt;li&gt;涉及范围广&lt;/li&gt;
+&lt;li&gt;造成影响大&lt;/li&gt;
+&lt;li&gt;企业防护基础弱&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;工业互联网六大典型应用模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工业互联网六大典型应用模式&#34;&gt;#&lt;/a&gt; 工业互联网六大典型应用模式&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;平台设计&lt;/li&gt;
+&lt;li&gt;智能化制造&lt;/li&gt;
+&lt;li&gt;网络化协同&lt;/li&gt;
+&lt;li&gt;个性化定制&lt;/li&gt;
+&lt;li&gt;服务化延申&lt;/li&gt;
+&lt;li&gt;数字化管理&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;车联网掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#车联网掌握&#34;&gt;#&lt;/a&gt; 车联网（掌握）&lt;/h2&gt;
+&lt;p&gt;新一代汽车&lt;/p&gt;
+&lt;h3 id=&#34;车联网的三层体系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#车联网的三层体系&#34;&gt;#&lt;/a&gt; 车联网的三层体系&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;端系统&lt;/li&gt;
+&lt;li&gt;管系统&lt;/li&gt;
+&lt;li&gt;云系统&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;车联网的五种链接方式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#车联网的五种链接方式&#34;&gt;#&lt;/a&gt; 车联网的五种链接方式&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;车与云平台&lt;/li&gt;
+&lt;li&gt;车与车间&lt;/li&gt;
+&lt;li&gt;车与路间&lt;/li&gt;
+&lt;li&gt;车与人间&lt;/li&gt;
+&lt;li&gt;车与设备间&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;车联网的场景应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#车联网的场景应用&#34;&gt;#&lt;/a&gt; 车联网的场景应用&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;实用类场景应用：自动碰撞通知、被盗车辆跟踪、道路救援&lt;/li&gt;
+&lt;li&gt;便携类场景应用：信息娱乐服务&lt;/li&gt;
+&lt;li&gt;效率类场景应用：车联网自己更新系统，不用去车厂&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;现代化创新发展掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现代化创新发展掌握&#34;&gt;#&lt;/a&gt; 现代化创新发展（掌握）&lt;/h1&gt;
+&lt;h2 id=&#34;农业农村现代化掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#农业农村现代化掌握&#34;&gt;#&lt;/a&gt; 农业农村现代化（掌握）&lt;/h2&gt;
+&lt;p&gt;农业信息化是农业现代化的重要技术手段。&lt;/p&gt;
+&lt;h3 id=&#34;乡村振兴战略掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#乡村振兴战略掌握&#34;&gt;#&lt;/a&gt; 乡村振兴战略（掌握）&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;建设基础设施&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;发展智慧农业&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建设数字乡村&lt;/p&gt;
+&lt;h3 id=&#34;两化融合与智能制造&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#两化融合与智能制造&#34;&gt;#&lt;/a&gt; 两化融合与智能制造&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;两化融合：核心是信息化支撑，追求可持续发展模式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;技术融合&lt;/li&gt;
+&lt;li&gt;产品融合&lt;/li&gt;
+&lt;li&gt;业务融合&lt;/li&gt;
+&lt;li&gt;产业衍生&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;智能制造：基于新一代信息通信技术与先进制造技术融合的新型生产方式。&lt;/p&gt;
+&lt;p&gt;GB/T39116《智能制造能力成熟度模型》&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一级（规划级）：流程化管理&lt;/li&gt;
+&lt;li&gt;二级（规范级）：单一数据共享&lt;/li&gt;
+&lt;li&gt;三级（继承级）：跨业务数据共享&lt;/li&gt;
+&lt;li&gt;四级（优化级）：精准预测和优化核心业务&lt;/li&gt;
+&lt;li&gt;五级（引领级）：产业链协同并衍生新的商业模式&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;消费互联网&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#消费互联网&#34;&gt;#&lt;/a&gt; 消费互联网&lt;/h3&gt;
+&lt;p&gt;本质是个人虚拟化，增强个人生活消费体验。&lt;/p&gt;
+&lt;p&gt;基本属性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;媒体属性&lt;/li&gt;
+&lt;li&gt;产业属性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;数字中国掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字中国掌握&#34;&gt;#&lt;/a&gt; 数字中国（掌握）&lt;/h1&gt;
+&lt;h2 id=&#34;数字经济掌握&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字经济掌握&#34;&gt;#&lt;/a&gt; 数字经济（掌握）&lt;/h2&gt;
+&lt;p&gt;继农业经济、工业经济之后的更高级经济形态。&lt;/p&gt;
+&lt;p&gt;构成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数字产业化&lt;/li&gt;
+&lt;li&gt;产业数字化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;数字化治理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字化治理&#34;&gt;#&lt;/a&gt; 数字化治理&lt;/h3&gt;
+&lt;p&gt;特征：“信息技术 + 治理 &amp;quot;&lt;/p&gt;
+&lt;h3 id=&#34;数字价值化&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字价值化&#34;&gt;#&lt;/a&gt; 数字价值化&lt;/h3&gt;
+&lt;p&gt;三化框架：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;数据资源化&lt;/li&gt;
+&lt;li&gt;数据资产化&lt;/li&gt;
+&lt;li&gt;数据资本化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数字政府&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字政府&#34;&gt;#&lt;/a&gt; 数字政府&lt;/h2&gt;
+&lt;p&gt;互联网 + 政府&lt;/p&gt;
+&lt;p&gt;特征：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;协同化&lt;/li&gt;
+&lt;li&gt;云端化&lt;/li&gt;
+&lt;li&gt;智能化&lt;/li&gt;
+&lt;li&gt;数据化&lt;/li&gt;
+&lt;li&gt;动态化&lt;/li&gt;
+&lt;li&gt;共享&lt;/li&gt;
+&lt;li&gt;互通&lt;/li&gt;
+&lt;li&gt;便利&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;主要内容：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一网通办&lt;/li&gt;
+&lt;li&gt;跨省通办&lt;/li&gt;
+&lt;li&gt;一网统管
+&lt;ol&gt;
+&lt;li&gt;一网&lt;/li&gt;
+&lt;li&gt;一屏&lt;/li&gt;
+&lt;li&gt;联动&lt;/li&gt;
+&lt;li&gt;预警&lt;/li&gt;
+&lt;li&gt;创新&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数字社会&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字社会&#34;&gt;#&lt;/a&gt; 数字社会&lt;/h2&gt;
+&lt;h3 id=&#34;数字民生&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字民生&#34;&gt;#&lt;/a&gt; 数字民生&lt;/h3&gt;
+&lt;p&gt;强调：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;普惠&lt;/li&gt;
+&lt;li&gt;赋能&lt;/li&gt;
+&lt;li&gt;利民&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;智慧城市&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#智慧城市&#34;&gt;#&lt;/a&gt; 智慧城市&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;智慧城市建设更加注重以人民为中心&lt;/li&gt;
+&lt;li&gt;新技术持续赋能智慧城市的建设与发展&lt;/li&gt;
+&lt;li&gt;城市治理现代化是智慧城市建设的必然要求&lt;/li&gt;
+&lt;li&gt;共建、共治、共享生态模式助理智慧城市高质量发展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;核心能力：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;数据治理&lt;/li&gt;
+&lt;li&gt;数字孪生&lt;/li&gt;
+&lt;li&gt;边际决策&lt;/li&gt;
+&lt;li&gt;多元融合&lt;/li&gt;
+&lt;li&gt;态势感知&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;成熟度等级&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;一级（规划级）&lt;/li&gt;
+&lt;li&gt;二级（管理级）&lt;/li&gt;
+&lt;li&gt;三级（协同级）&lt;/li&gt;
+&lt;li&gt;四级（优化级）&lt;/li&gt;
+&lt;li&gt;五级（引领级）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;数字乡村&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字乡村&#34;&gt;#&lt;/a&gt; 数字乡村&lt;/h3&gt;
+&lt;p&gt;城乡数字鸿沟大幅度缩小，农民数字化素养显著提升。农业农村现代化基本实现。&lt;/p&gt;
+&lt;h3 id=&#34;数字生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字生活&#34;&gt;#&lt;/a&gt; 数字生活&lt;/h3&gt;
+&lt;p&gt;是依托互联网和一系列数字科技技术应用为基础的一种生活方式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;生活工具数字化&lt;/li&gt;
+&lt;li&gt;生活方式数字化&lt;/li&gt;
+&lt;li&gt;生活内容数字化&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;数字生态&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字生态&#34;&gt;#&lt;/a&gt; 数字生态&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;数据要素市场&lt;/li&gt;
+&lt;li&gt;数字营商环境&lt;/li&gt;
+&lt;li&gt;网络安全保护&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;数字化转型与元宇宙&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字化转型与元宇宙&#34;&gt;#&lt;/a&gt; 数字化转型与元宇宙&lt;/h1&gt;
+&lt;h2 id=&#34;数字化转型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#数字化转型&#34;&gt;#&lt;/a&gt; 数字化转型&lt;/h2&gt;
+&lt;h3 id=&#34;驱动因素&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#驱动因素&#34;&gt;#&lt;/a&gt; 驱动因素&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;生产力飞升：第四次科技革命&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;生产要素变化：数据要素的诞生&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;信息传播效率突破：社会互联网新格局&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;社会 “智慧主体” 规模：快速复制与 “智能 +”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;困难&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#困难&#34;&gt;#&lt;/a&gt; 困难&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;决策瓶颈&lt;/li&gt;
+&lt;li&gt;变革制约&lt;/li&gt;
+&lt;li&gt;知识资产流失&lt;/li&gt;
+&lt;li&gt;需求响应延迟&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;元宇宙&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#元宇宙&#34;&gt;#&lt;/a&gt; 元宇宙&lt;/h2&gt;
+&lt;p&gt;特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;沉浸式体验&lt;/li&gt;
+&lt;li&gt;虚拟身份&lt;/li&gt;
+&lt;li&gt;虚拟经济&lt;/li&gt;
+&lt;li&gt;虚拟社会治理&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2023/08/28/markmap%E6%B5%8B%E8%AF%95/</guid>
             <title>markmap测试</title>
@@ -702,97 +1353,6 @@ F(n) = F(n - 1) + F(n - 2)，其中 n &amp;gt; 1
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;index &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; digits&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;3 确定单层遍历逻辑&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; digit &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; digits&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;index&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token char&#34;&gt;&#39;0&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 将 index 指向的数字转为 int&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;string letters &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; letterMap&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;digit&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;      &lt;span class=&#34;token comment&#34;&gt;// 取数字对应的字符集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; letters&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;letters&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;            &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;digits&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; index &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;    &lt;span class=&#34;token comment&#34;&gt;// 递归，注意 index+1，一下层要处理下一个数字了&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                       &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;完整代码&lt;/p&gt;
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;class Solution &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;private&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;const&lt;/span&gt; string letterMap&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 0&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;abc&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;def&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;ghi&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 4&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;jkl&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 5&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;mno&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 6&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;pqrs&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 7&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;tuv&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 8&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token string&#34;&gt;&#34;wxyz&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 9&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;public&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;string&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    string s&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;const&lt;/span&gt; string&lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt; digits&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; index&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;index &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; digits&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;s&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; digit &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; digits&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;index&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token char&#34;&gt;&#39;0&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;        &lt;span class=&#34;token comment&#34;&gt;// 将 index 指向的数字转为 int&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        string letters &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; letterMap&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;digit&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;      &lt;span class=&#34;token comment&#34;&gt;// 取数字对应的字符集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; letters&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;letters&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;            &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;digits&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; index &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;    &lt;span class=&#34;token comment&#34;&gt;// 递归，注意 index+1，一下层要处理下一个数字了&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;                       &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;string&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;letterCombinations&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;string digits&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        s&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;digits&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;digits&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/08/23/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C/</guid>
-            <title>组合总和</title>
-            <link>http://example.com/2023/08/23/%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C/</link>
-            <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/" />
-            <category term="回溯" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF/" />
-            <category term="回溯" scheme="http://example.com/tags/%E5%9B%9E%E6%BA%AF/" />
-            <pubDate>Wed, 23 Aug 2023 17:11:58 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;题目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目&#34;&gt;#&lt;/a&gt; 题目&lt;/h1&gt;
-&lt;p&gt;找出所有相加之和为 n 的 k 个数的组合。组合中只允许含有 1 - 9 的正整数，并且每种组合中不存在重复的数字。&lt;/p&gt;
-&lt;p&gt;说明：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;所有数字都是正整数。&lt;/li&gt;
-&lt;li&gt;解集不能包含重复的组合。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;示例 1: 输入: k = 3, n = 7 输出: [[1,2,4]]&lt;/p&gt;
-&lt;p&gt;示例 2: 输入: k = 3, n = 9 输出: [[1,2,6], [1,3,5], [2,3,4]]&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jbi9wcm9ibGVtcy9jb21iaW5hdGlvbi1zdW0taWlpLw==&#34;&gt;216. 组合总和 III - 力扣（LeetCode）&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析&#34;&gt;#&lt;/a&gt; 分析&lt;/h1&gt;
-&lt;p&gt;深度为 k 的 9 叉树&lt;/p&gt;
-&lt;p&gt;递归三部曲&lt;/p&gt;
-&lt;p&gt;1 确定递归函数参数：&lt;/p&gt;
-&lt;p&gt;全局变量 路径 path 和结果集 result，&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;2 终止条件&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;sum &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 如果 path.size () == k 但 sum != targetSum 直接返回&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;3 单层搜索过程&lt;/p&gt;
-&lt;p&gt;从 1 到 9 循环&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;sum &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 如果 path.size () == k 但 sum != targetSum 直接返回&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;完整代码&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;class Solution &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;private&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 存放结果集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 符合条件的结果&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//targetSum：目标和，也就是题目中的 n。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//k：题目中要求 k 个数的集合。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//sum：已经收集的元素的总和，也就是 path 里元素的总和。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token comment&#34;&gt;//startIndex：下一层 for 循环搜索的起始位置。&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;sum &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 如果 path.size () == k 但 sum != targetSum 直接返回&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            sum &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;targetSum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 注意 i+1 调整 startIndex&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            sum &lt;span class=&#34;token operator&#34;&gt;-=&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;public&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;combinationSum3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 可以不加&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 可以不加&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;剪枝&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;class Solution &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;private&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 存放结果集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 符合条件的结果&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;sum &lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 剪枝操作&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 如果 path.size () == k 但 sum != targetSum 直接返回&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;sum &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; targetSum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;9&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;k &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 剪枝&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            sum &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;targetSum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 注意 i+1 调整 startIndex&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            sum &lt;span class=&#34;token operator&#34;&gt;-=&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;public&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;combinationSum3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 可以不加&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 可以不加&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/08/23/%E7%BB%84%E5%90%88%E9%97%AE%E9%A2%98/</guid>
-            <title>组合问题</title>
-            <link>http://example.com/2023/08/23/%E7%BB%84%E5%90%88%E9%97%AE%E9%A2%98/</link>
-            <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/" />
-            <category term="回溯" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF/" />
-            <category term="回溯" scheme="http://example.com/tags/%E5%9B%9E%E6%BA%AF/" />
-            <pubDate>Wed, 23 Aug 2023 16:26:40 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;题目&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#题目&#34;&gt;#&lt;/a&gt; 题目&lt;/h1&gt;
-&lt;p&gt;给定两个整数 n 和 k，返回 1 ... n 中所有可能的 k 个数的组合。&lt;/p&gt;
-&lt;p&gt;示例：输入: n = 4, k = 2 输出: [[2,4], [3,4], [2,3], [1,2], [1,3], [1,4], ]&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9sZWV0Y29kZS5jbi9wcm9ibGVtcy9jb21iaW5hdGlvbnMv&#34;&gt;77. 组合 - 力扣（LeetCode）&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;分析&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#分析&#34;&gt;#&lt;/a&gt; 分析&lt;/h1&gt;
-&lt;p&gt;把题目抽象成树状图&lt;/p&gt;
-&lt;p&gt;深度为 k 的 n 叉树&lt;/p&gt;
-&lt;p&gt;回溯三部曲：&lt;/p&gt;
-&lt;p&gt;1 递归函数的参数和返回值&lt;/p&gt;
-&lt;p&gt;这里需要两个全局变量，一个存放单一结果，另一个存放符合条件的结果集合，初次之外还需要一个 int 型变量来记录本层递归的起点&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 存放符合条件结果的集合&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 用来存放符合条件结果&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;2 回溯的终止条件&lt;/p&gt;
-&lt;p&gt;当 path 数组大小到 k 时说明已经到叶子节点了&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;3 单层搜索过程&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 控制树的横向遍历&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 递归：控制树的纵向遍历，注意下一层搜索要从 i+1 开始&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯，撤销处理的节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;完整代码&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;class Solution &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;private&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 存放符合条件结果的集合&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 用来存放符合条件结果&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 递归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯，撤销处理的节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;public&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;combine&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 可以不写&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;   &lt;span class=&#34;token comment&#34;&gt;// 可以不写&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;剪枝优化：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;已经选择的元素个数：path.size ();&lt;/li&gt;
-&lt;li&gt;所需需要的元素个数为: k - path.size ();&lt;/li&gt;
-&lt;li&gt;列表中剩余元素（n-i） &amp;gt;= 所需需要的元素个数（k - path.size ()）&lt;/li&gt;
-&lt;li&gt;在集合 n 中至多要从该起始位置 : i &amp;lt;= n - (k - path.size ()) + 1，开始遍历&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;class Solution &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;private&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            result&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;path&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; startIndex&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;=&lt;/span&gt; n &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;k &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;size&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 优化的地方&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;push_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 处理节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            path&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;pop_back&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 回溯，撤销处理的节点&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;public&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;vector&lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;combine&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; result&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/08/23/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/</guid>
-            <title>回溯算法理论基础</title>
-            <link>http://example.com/2023/08/23/%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/</link>
-            <category term="算法" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/" />
-            <category term="回溯" scheme="http://example.com/categories/%E7%AE%97%E6%B3%95/%E5%9B%9E%E6%BA%AF/" />
-            <category term="回溯" scheme="http://example.com/tags/%E5%9B%9E%E6%BA%AF/" />
-            <pubDate>Wed, 23 Aug 2023 16:21:40 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;回溯算法的理论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#回溯算法的理论&#34;&gt;#&lt;/a&gt; 回溯算法的理论&lt;/h1&gt;
-&lt;p&gt;回溯和递归类似，都不是很高效&lt;/p&gt;
-&lt;p&gt;回溯法，一般可以解决如下几种问题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;组合问题：N 个数里面按一定规则找出 k 个数的集合&lt;/li&gt;
-&lt;li&gt;切割问题：一个字符串按一定规则有几种切割方式&lt;/li&gt;
-&lt;li&gt;子集问题：一个 N 个数的集合里有多少符合条件的子集&lt;/li&gt;
-&lt;li&gt;排列问题：N 个数按一定规则全排列，有几种排列方式&lt;/li&gt;
-&lt;li&gt;棋盘问题：N 皇后，解数独等等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;回溯法解决的问题都可以抽象为树形结构&lt;/p&gt;
-&lt;h1 id=&#34;回溯模板&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#回溯模板&#34;&gt;#&lt;/a&gt; 回溯模板&lt;/h1&gt;
-&lt;p&gt;函数名习惯定义为 backtracking，返回值一般 void，参数根据逻辑需要什么补充什么&lt;/p&gt;
-&lt;p&gt;回溯函数伪代码如下&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;参数&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;回溯函数终止条件&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;终止条件&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    存放结果&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;回溯函数遍历过程伪代码如下&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;选择：本层集合中元素（树中节点孩子的数量就是集合的大小）&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    处理节点&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;路径，选择列表&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 递归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    回溯，撤销处理结果&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;for 循环就是遍历集合区间，可以理解一个节点有多少个孩子，这个 for 循环就执行多少次。&lt;/p&gt;
-&lt;p&gt;backtracking 这里自己调用自己，实现递归。&lt;/p&gt;
-&lt;p&gt;大家可以从图中看出&lt;strong&gt; for 循环可以理解是横向遍历，backtracking（递归）就是纵向遍历&lt;/strong&gt;，这样就把这棵树全遍历完了，一般来说，搜索叶子节点就是找的其中一个结果了。&lt;/p&gt;
-&lt;p&gt;分析完过程，回溯算法模板框架如下：&lt;/p&gt;
-&lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;参数&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;终止条件&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        存放结果&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;选择：本层集合中元素（树中节点孩子的数量就是集合的大小）&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        处理节点&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token function&#34;&gt;backtracking&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;路径，选择列表&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 递归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        回溯，撤销处理结果&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
     </channel>
 </rss>
